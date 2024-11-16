@@ -39,7 +39,13 @@
     </tr>
   </tbody>
 </table>
+
 ---
+
 ## 1주차
----
-### [1주차 자료 - 문지영, 양석준, 현재우, 채민지](https://github.com/Compose-Study/.github/tree/main/1%EC%A3%BC%EC%B0%A8)
+
+[[1주차 자료 - 문지영, 양석준, 현재우, 채민지]](https://github.com/Compose-Study/.github/tree/main/1%EC%A3%BC%EC%B0%A8)
+- Navigation
+- State
+- @Composable
+- 컴포즈 기본 UI
